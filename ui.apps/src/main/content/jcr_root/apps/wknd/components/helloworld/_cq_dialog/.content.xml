@@ -15,7 +15,7 @@
                         jcr:primaryType="nt:unstructured"
                         sling:resourceType="granite/ui/components/coral/foundation/form/textfield"
                         fieldLabel="Text"
-                        emptyText="Empty text for entering any text items"
+                        emptyText="Empty text commited by different user"
                         name="./textarea"/>
                 </items>
             </column>
