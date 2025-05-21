@@ -15,6 +15,7 @@
                         jcr:primaryType="nt:unstructured"
                         sling:resourceType="granite/ui/components/coral/foundation/form/textfield"
                         fieldLabel="Text"
+                        emptyText="Empty text for entering any text items"
                         name="./textarea"/>
                 </items>
             </column>
